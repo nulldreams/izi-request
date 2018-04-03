@@ -1,6 +1,6 @@
 # Para simplificar
 
-Usando o async/await nativo do node, é possível simplificarmos nossas requisições, no caso, usando o [request](https://github.com/request/request).
+Usando o async/await nativo do node, é possível simplificarmos as requisições que são feitas através do [request](https://github.com/request/request).
 
 O código abaixo mostra como fica as funções que farão as requisições, aparentemente nada de mais, não é?
 ```javascript
